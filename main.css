@@ -1,0 +1,7 @@
+body {
+    background-color: skyblue;
+}
+#capture {
+    position: relative;
+    left: 40%;
+}
